@@ -1,12 +1,18 @@
 # Allan Im 👋
-<a href="https://linkedin.com/in/allanim" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30" alt="in"/></a>
+<a href="https://linkedin.com/in/allanim" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" alt="in"/></a>
 
 ## About me 
 I'm a software engineer. 
 
 ## Stack I work with
-<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
+
+<code><img height="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
 
 
 ### Interesting stats
