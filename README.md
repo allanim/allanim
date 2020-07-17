@@ -59,7 +59,7 @@ const allan = {
 <!--START_SECTION:waka-->
 ```text
 ⌚︎ Timezone: America/Toronto
-🔛 Duration: 2020-07-10 - 2020-07-17
+🔛 Duration: July 10 - July 16
 
 💬 Languages: 
 Java        25 hrs 28 mins      ████████████████████░░░░░   82.04% 
