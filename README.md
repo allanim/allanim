@@ -14,10 +14,18 @@ _Software Engineer_ 🍁 Toronto
 ![GitHub Followers](https://img.shields.io/github/followers/allanim?label=Follow&style=social)
 <!-- ![Waka Readme](https://github.com/allanim/allanim/workflows/Waka%20Readme/badge.svg) -->
 
----
+### Stack I work with
+<code><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 ```javascript
 const allan = {
@@ -43,9 +51,16 @@ const allan = {
 };
 ```
 
+### Interesting stats
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=allanim&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
+
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
@@ -58,20 +73,5 @@ SQL         25 mins             ░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-### Stack I work with
-<code><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-icon.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-
-
-### Interesting stats
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=allanim&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
