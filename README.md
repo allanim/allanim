@@ -8,7 +8,7 @@ _Software Engineer_ 🍁 Toronto
 [![Linkedin](https://img.shields.io/badge/-Allan_Im-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allanim/)](https://www.linkedin.com/in/allanim/)
 [![Instagram](https://img.shields.io/badge/-@allan.im-red?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/allan.im/)](https://www.instagram.com/allan.im/)
 [![Facebook](https://img.shields.io/badge/-allan.syim-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/allan.syim/)](https://www.facebook.com/allan.syim/)
-![](https://visitor-badge.glitch.me/badge?page_id=allanim.allanim)
+![](https://visitor-badge.laobi.icu/badge?page_id=allanim.allanim)
 ![Waka Readme](https://github.com/allanim/allanim/workflows/Waka%20Readme/badge.svg)
 
 [![Twitter Follows](https://img.shields.io/twitter/follow/allanlogs?label=Follow)](https://twitter.com/allanlogs)
