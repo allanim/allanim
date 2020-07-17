@@ -9,10 +9,11 @@ _Software Engineer_ 🍁 Toronto
 [![Instagram](https://img.shields.io/badge/-@allan.im-red?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/allan.im/)](https://www.instagram.com/allan.im/)
 [![Facebook](https://img.shields.io/badge/-allan.syim-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/allan.syim/)](https://www.facebook.com/allan.syim/)
 ![](https://visitor-badge.glitch.me/badge?page_id=allanim.allanim)
+![Waka Readme](https://github.com/allanim/allanim/workflows/Waka%20Readme/badge.svg)
 
 [![Twitter Follows](https://img.shields.io/twitter/follow/allanlogs?label=Follow)](https://twitter.com/allanlogs)
 ![GitHub Followers](https://img.shields.io/github/followers/allanim?label=Follow&style=social)
-<!-- ![Waka Readme](https://github.com/allanim/allanim/workflows/Waka%20Readme/badge.svg) -->
+
 
 ### Stack I work with
 <code><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
@@ -46,8 +47,7 @@ const allan = {
         databases: ["Oracle", "PostgreSQL", "MySql", "SQLite", "H2DB"],
         misc: ["Firebase", "Selenium"]
     },
-    architecture: ["Microservice", "Serverless", "Progressive webapp", 
-                   "Single page applications"]
+    architecture: ["Microservice", "Serverless", "Progressive webapp", "Single page applications"]
 };
 ```
 
