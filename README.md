@@ -15,7 +15,7 @@ _Software Engineer_ 🍁 Toronto
 ![GitHub Followers](https://img.shields.io/github/followers/allanim?label=Follow&style=social)
 
 
-### Stack I work with
+### Stack I work with 📚
 <code><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
@@ -51,17 +51,11 @@ const allan = {
 };
 ```
 
-### Interesting stats
+### Interesting stats 🔣
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=allanim&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
----
-
-📊 **This week I spent my time on**
+### This week I spent my time on ⏳
 <!--START_SECTION:waka-->
 ```text
 Java        29 hrs 23 mins      ██████████████████████░░░   90.44 
@@ -72,6 +66,8 @@ SQL         25 mins             ░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
+---
 
-
+⭐️ From [Allan](https://allanim.com)
