@@ -38,7 +38,8 @@ const allan = {
         databases: ["Oracle", "PostgreSQL", "MySql", "SQLite", "H2DB"],
         misc: ["Firebase", "Selenium"]
     },
-    architecture: ["Microservice", "Serverless", "Progressive webapp", "Single page applications"]
+    architecture: ["Microservice", "Serverless", "Progressive webapp", 
+                   "Single page applications"]
 };
 ```
 
