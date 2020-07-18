@@ -12,7 +12,7 @@ _Software Engineer_ 🍁 Toronto
 [![Waka Readme](https://github.com/allanim/allanim/workflows/Waka%20Readme/badge.svg)](https://github.com/allanim/allanim/actions)
 
 [![Twitter Follows](https://img.shields.io/twitter/follow/allanlogs?label=Follow)](https://twitter.com/allanlogs)
-![GitHub Followers](https://img.shields.io/github/followers/allanim?label=Follow&style=social)
+[![GitHub Followers](https://img.shields.io/github/followers/allanim?label=Follow&style=social)](https://github.com/allanim?tab=followers)
 
 
 ### Stack I work with 📚
