@@ -3,12 +3,12 @@ name: Waka Readme
 on:
   schedule:
     # Runs at 12am UTC
-    - cron: '*/1 * * * *'
+    - cron: '*/2 * * * *'
 
 jobs:
   update-readme:
     name: Update this repo's README
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: allanim/waka-readme@master
         with:
