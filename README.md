@@ -9,7 +9,7 @@ _Software Engineer_ 🍁 Toronto
 [![Instagram](https://img.shields.io/badge/-@allan.im-red?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/allan.im/)](https://www.instagram.com/allan.im/)
 [![Facebook](https://img.shields.io/badge/-allan.syim-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/allan.syim/)](https://www.facebook.com/allan.syim/)
 [![visitor](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fallanim)](https://hits.seeyoufarm.com)
-![Waka Readme](https://github.com/allanim/allanim/workflows/Waka%20Readme/badge.svg)
+[![Waka Readme](https://github.com/allanim/allanim/workflows/Waka%20Readme/badge.svg)](https://github.com/allanim/allanim/actions)
 
 [![Twitter Follows](https://img.shields.io/twitter/follow/allanlogs?label=Follow)](https://twitter.com/allanlogs)
 ![GitHub Followers](https://img.shields.io/github/followers/allanim?label=Follow&style=social)
