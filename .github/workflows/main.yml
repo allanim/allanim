@@ -8,7 +8,7 @@ on:
 jobs:
   update-readme:
     name: Update this repo's README
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     steps:
       - uses: allanim/waka-readme@master
         with:
