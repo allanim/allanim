@@ -57,7 +57,9 @@ const allan = {
 
 
 ### This week I spent my time on ⏳
-<!--START_SECTION:waka-->
+![Allan's times](https://aim-functions.vogle.com/wakatime/allanim)
+
+<!--START_SECTION:waka
 ```text
 📌 Timezone: America/Toronto
 🔛 Duration: 27 July, 2020 - 02 August, 2020
@@ -80,7 +82,7 @@ VS Code     0 secs              ░░░░░░░░░░░░░░░░
 Mac         48 hrs              ████████████████████████░    97.20 % 
 Windows     1 hr 23 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░    02.80 %
 ```
-<!--END_SECTION:waka-->
+END_SECTION:waka-->
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
