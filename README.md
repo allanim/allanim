@@ -60,7 +60,7 @@ const allan = {
 
 
 ### This week I spent my time on ⏳
-![Allan's times](https://aim-functions.vogle.com/wakatime)
+[![Allan's times](https://aim-functions.vogle.com/wakatime)](https://wakatime.com/@allanim)
 
 <!--START_SECTION:waka
 ```text
