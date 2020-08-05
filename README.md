@@ -26,7 +26,9 @@ _Software Engineer_ 🍁 Toronto
 <code><img height="30" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 
+<!--
 ### A little more about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+
 
 ```javascript
 const allan = {
@@ -49,11 +51,13 @@ const allan = {
     },
     architecture: ["Microservice", "Serverless", "Progressive webapp", "Single page applications"]
 };
-```
+```-->
+
 
 ### Interesting stats 🔣
+[![Github stats](https://github-readme-stats.vercel.app/api?username=allanim&show_icons=true&count_private=true&hide=issues&title_color=015565&text_color=43a699&icon_color=c9341c&bg_color=e7eef4)](https://github.com/allanim)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allanim&layout=compact&title_color=015565&text_color=43a699&icon_color=c9341c&bg_color=e7eef4)](https://github.com/allanim)
 
-![Allan's github stats](https://github-readme-stats.vercel.app/api?username=allanim&show_icons=true&theme=dracula)
 
 
 ### This week I spent my time on ⏳
