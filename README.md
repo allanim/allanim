@@ -60,32 +60,7 @@ const allan = {
 
 
 ### This week I spent my time on ⏳
-[![Allan's times](https://aim-functions.vogle.com/wakatime)](https://wakatime.com/@allanim)
-
-<!--START_SECTION:waka
-```text
-📌 Timezone: America/Toronto
-🔛 Duration: 27 July, 2020 - 02 August, 2020
-
-💬 Languages: 
-TypeScript  18 hrs 28 mins      █████████░░░░░░░░░░░░░░░░    37.42 % 
-Java        16 hrs 30 mins      ████████░░░░░░░░░░░░░░░░░    33.43 % 
-Other       4 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░    09.31 % 
-HTML        3 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░    07.46 % 
-JSON        2 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░    05.75 %
-
-🔥 Editors: 
-WebStorm    24 hrs 32 mins      ████████████░░░░░░░░░░░░░    49.69 % 
-IntelliJ    20 hrs 27 mins      ██████████░░░░░░░░░░░░░░░    41.44 % 
-Zsh         4 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░    08.19 % 
-DataGrip    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░    00.65 % 
-VS Code     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░    00.03 %
-
-💻 Operating Systems: 
-Mac         48 hrs              ████████████████████████░    97.20 % 
-Windows     1 hr 23 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░    02.80 %
-```
-END_SECTION:waka-->
+[![Allan's times](https://aim-functions.vogle.com/wakatime/allanim)](https://wakatime.com/@allanim)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
