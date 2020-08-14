@@ -68,4 +68,4 @@ const allan = {
 
 ---
 
-⭐️ From [Allan](https://allanim.com)
+⭐️ From [Allan](http://git.io/allanim)
