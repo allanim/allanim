@@ -58,9 +58,9 @@ const allan = {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allanim&layout=compact&title_color=015565&text_color=43a699&icon_color=c9341c&bg_color=e7eef4)](https://github.com/allanim)
 
 
-
 ### This week I spent my time on ⏳
-[![Allan's times](https://aim-functions.vogle.com/wakatime/allanim?row=3)](https://wakatime.com/@allanim)
+[![Allan's times](https://aim-functions.vogle.com/wakatime/allanim?row=3)](https://github.com/allanim/aim-functions)
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
