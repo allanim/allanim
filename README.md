@@ -59,7 +59,7 @@ const allan = {
 
 
 ### This week I spent my time on ⏳
-[![Allan's times](https://aim-functions.vogle.com/wakatime/allanim?row=3)](https://github.com/allanim/aim-functions)
+[![Allan's times](https://aim-functions.vogle.com/wakatime/allanim?row=3)](https://aim-functions.vogle.com)
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
