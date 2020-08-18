@@ -70,5 +70,5 @@ const allan = {
 
 ⭐️ From [Allan](http://git.io/allanim)
 
-<iframe src="https://www.google.com/maps/embed/v1/place?key=AIzaSyB7dfdaY3wqI6yNMRfMkig6UqsQK4bMcs4&q=Eiffel+Tower,Paris+France" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 
