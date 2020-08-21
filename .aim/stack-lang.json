@@ -1,4 +1,12 @@
 [
-  {"language": "java", "percentage": 90},
-  {"language": "java", "percentage": 90}
+  {"language": "java", "percentage": 95},
+  {"language": "typescript", "percentage": 70},
+  {"language": "groovy", "percentage": 70},
+  {"language": "kotlin", "percentage": 60},
+  {"language": "swift", "percentage": 60},
+  {"language": "go", "percentage": 40},
+  {"language": "python", "percentage": 40},
+  {"language": "javascript", "percentage": 80},
+  {"language": "html", "percentage": 80},
+  {"language": "css", "percentage": 80},
 ]
