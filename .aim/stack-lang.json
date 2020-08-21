@@ -8,5 +8,5 @@
   {"language": "python", "percentage": 40},
   {"language": "javascript", "percentage": 80},
   {"language": "html", "percentage": 80},
-  {"language": "css", "percentage": 80},
+  {"language": "css", "percentage": 80}
 ]
