@@ -1,4 +1,4 @@
 [
-  {language: "java", percentage: "90"},
-  {language: "java", percentage: "90"}
+  {"language": "java", "percentage": 90},
+  {"language": "java", "percentage": 90}
 ]
