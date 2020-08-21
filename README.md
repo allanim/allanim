@@ -15,16 +15,8 @@ _Software Engineer_ 🍁 Toronto
 
 
 ### Stack I work with 📚
-<code><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-icon.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
-<code><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+
+[![Allan's Stack](https://aim-functions.vogle.com/stack-lang/github/allanim)](https://aim-functions.vogle.com)
 
 
 <!--
