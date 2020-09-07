@@ -15,7 +15,7 @@ _*Software Engineer*_ 🍁 Toronto
 
 
 ### Stack I work with 📚
-![Allan's Stack](https://aim-functions.vogle.com/stack-lang/github/allanim)
+![Allan's Stack](https://afs.vogle.com/stack-lang/github/allanim)
 
 
 ### Github Stats 🔣
