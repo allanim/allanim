@@ -1,0 +1,12 @@
+[
+  {"icon": "java", "percentage": 100},
+  {"icon": "typescriptlang", "percentage": 70},
+  {"icon": "groovy-alng", "percentage": 70},
+  {"icon": "kotlin", "percentage": 60},
+  {"icon": "swift", "percentage": 60},
+  {"icon": "golang", "percentage": 40},
+  {"icon": "python", "percentage": 40},
+  {"icon": "javascript", "percentage": 80},
+  {"icon": "w3_html5", "percentage": 80},
+  {"icon": "css", "percentage": 80}
+]
