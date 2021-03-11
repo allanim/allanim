@@ -1,0 +1,37 @@
+{
+  "name": "allanim",
+  "version": "1.0.1",
+  "description": "Allan's NPM Business Card",
+  "main": "index.js",
+  "bin": {
+    "allan": "index.js",
+    "allanim": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allanim/allanim.git"
+  },
+  "keywords": [
+    "Allan",
+    "syim",
+    "Seongyeob",
+    "Nes",
+    "Im"
+  ],
+  "author": "Allan Im",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allanim/allanim/issues"
+  },
+  "homepage": "https://github.com/allanim/allanim#readme",
+  "dependencies": {
+    "boxen": "^5.0.0",
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "inquirer": "^8.0.0",
+    "open": "^8.0.2"
+  }
+}
