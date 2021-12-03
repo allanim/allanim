@@ -16,11 +16,6 @@ _*Software Engineer*_ 🍁 Toronto
 ![Allan's Stack](https://aim.vogle.com/stack-lang/github/allanim)
 
 
-### Github Stats 🔣
-[![Github stats](https://github-readme-stats.vercel.app/api?username=allanim&show_icons=true&count_private=true&hide=issues&title_color=015565&text_color=43a699&icon_color=c9341c&bg_color=e7eef4)](https://github.com/allanim)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allanim&layout=compact&title_color=015565&text_color=43a699&icon_color=c9341c&bg_color=e7eef4)](https://github.com/allanim)
-
-
 ### This week I spent my time on ⏳
 ![Allan's times](https://aim.vogle.com/wakatime/allanim?theme=dark&row=3)
 
