@@ -4,8 +4,6 @@ _*Software Engineer*_ 🍁 Toronto
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 [![Linkedin](https://img.shields.io/badge/-Allan_Im-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allanim/)](https://www.linkedin.com/in/allanim/)
-[![Instagram](https://img.shields.io/badge/-@allanlogs-red?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/allanlogs/)](https://www.instagram.com/allanlogs/)
-[![Facebook](https://img.shields.io/badge/-allanlogs-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/allanlogs/)](https://www.facebook.com/allanlogs/)
 [![visitor](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fallanim)](https://hits.seeyoufarm.com)
 
 [![Twitter Follows](https://img.shields.io/twitter/follow/allanlogs?label=Follow)](https://twitter.com/allanlogs)
