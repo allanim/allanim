@@ -15,7 +15,7 @@ _*Software Engineer*_ 🍁 Toronto
 
 
 ### This week I spent my time on ⏳
-![Allan's times](https://aim.vogle.com/wakatime/allanim?theme=dark&row=3)
+![Allan's times](https://aim.vogle.com/wakatime/allanim?row=4)
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
