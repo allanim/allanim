@@ -4,7 +4,7 @@ _*Software Engineer*_ 🍁 Toronto
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 [![Linkedin](https://img.shields.io/badge/-Allan_Im-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allanim/)](https://www.linkedin.com/in/allanim/)
-![](https://komarev.com/ghpvc/?username=allanim&color=blueviolet&base=12312&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=allanim&color=blueviolet&base=12312&abbreviated=false)
 
 [![Twitter Follows](https://img.shields.io/twitter/follow/allanlogs?label=Follow)](https://twitter.com/allanlogs)
 [![GitHub Followers](https://img.shields.io/github/followers/allanim?label=Follow&style=social)](https://github.com/allanim?tab=followers)
