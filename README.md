@@ -13,9 +13,11 @@ _*Software Engineer*_ 🍁 Toronto
 ### Stack I work with 📚
 ![Allan's Stack](https://aim.vogle.com/stack-lang/github/allanim)
 
+### 🤖 My AI Assistant Usage This Week
+![Allan's AI](https://allanim.com/cards/ai-coding.svg)
 
-### This week I spent my time on ⏳
-![Allan's times](https://aim.vogle.com/wakatime/allanim?row=4)
+### ⏳ Weekly Development Overview
+![Allan's times](https://allanim.com/cards/wakatime.svg)
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
