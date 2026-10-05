@@ -1,3 +1,8 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=header&text=Allan%20Im&fontSize=30&fontColor=ffffff)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%90%8B+I'm+Allan+Im;Exploring+the+tech+universe+%F0%9F%9A%80;Global+developer+%F0%9F%87%A8%F0%9F%87%A6%F0%9F%87%BA%F0%9F%87%B8%F0%9F%87%AF%F0%9F%87%B5%F0%9F%87%B0%F0%9F%87%B7)](https://git.io/typing-svg)
+
+
 # 👋 Hello, I'm Allan  
 
 _*Software Engineer*_ 🍁 Toronto 
